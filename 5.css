@@ -1,0 +1,14 @@
+button {
+    background: #FAEBAA;
+    font-size: 11px;
+    line-height: 15px;
+    color: #0a0a0a;
+    text-transform: uppercase;
+    cursor: pointer;
+    width: 180px;
+    margin-left: 50px;
+}
+
+#imageGallery {
+    margin-top: 30px;
+}
